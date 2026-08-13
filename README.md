@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Mikhail! 👋
 
-<!--
-**mixael22810/mixael22810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Junior Frontend / React Developer
 
-Here are some ideas to get you started:
+I am a passionate Frontend Developer focused on building clean, interactive, and user-friendly web applications using **React** and modern JavaScript tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Frontend:** React.js, JavaScript (ES6+), Vue.js, HTML5, CSS3, SCSS
+* **State Management & Routing:** Redux / Context API, React Router
+* **Tools & Platforms:** Git, GitHub, VS Code, REST API Integration
+
+---
+
+### 📊 GitHub Stats & Top Languages
+
+![Mikhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mixael22810&show_icons=true&theme=radial)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mixael22810&layout=compact&theme=radial)
+
+---
+
+📫 **How to reach me:**
+* **GitHub:** [github.com/mixael22810](https://github.com/mixael22810)[span_1](start_span)[span_1](end_span)
